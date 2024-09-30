@@ -1,0 +1,11 @@
+Pengertian Dart dan Flutter
+=> Dart adalah bahasa pemrograman yang dikembangkan oleh Google, dirancang untuk membangun aplikasi yang cepat, skalabel, dan mudah dikelola di berbagai platform. Dart digunakan untuk pengembangan frontend (client-side) maupun backend. Bahasa ini berbasis objek, menggunakan sistem kelas, dan menekankan pada kesederhanaan serta performa. 
+
+=> Flutter adalah SDK (Software Development Kit) open-source dari Google yang dibangun di atas Dart. Flutter digunakan untuk membuat aplikasi yang dikompilasi secara native untuk mobile (iOS, Android), web, dan desktop dengan satu codebase. Flutter menyediakan berbagai widget yang kaya dan alat untuk pengembang, guna membangun aplikasi yang indah, cepat, dan responsif.
+
+Widget pada flutter 
+1. Text Widget
+2. Container Widget
+3. Row dan Column Widget
+4. ListView Widget
+5. Scaffold Widget
